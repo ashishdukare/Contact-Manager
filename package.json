@@ -1,0 +1,23 @@
+{
+  "name": "contactlist",
+  "version": "1.0.0",
+  "description": "simple MEAN application",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ashish dukare",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/http": "^7.2.16",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.26",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {
+    "@angular/cli": "^10.0.4"
+  }
+}
