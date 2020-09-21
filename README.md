@@ -1,7 +1,7 @@
 # Contact-Manager
 
-Developed a simple Web Application where user can add contact, delete contact and view the list of added contacts              
-Technologies used: MongoDB, Express, Angular*, NodeJs, JavaScript}
+Developed Web Application where user can add contact, delete contact and view the list of added contacts              
+## Technologies used: MongoDB, Express, Angular*, NodeJs, JavaScript}
 
           
                  
